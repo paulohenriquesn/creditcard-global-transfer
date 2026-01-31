@@ -19,3 +19,5 @@ This repository only shows the basic structure. It is not a finished product.
 - Sends money internationally using Wise  
 
 ---
+
+<img src="idea.png" width="500" height="500"/>
