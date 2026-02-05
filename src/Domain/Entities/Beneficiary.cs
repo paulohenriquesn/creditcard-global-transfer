@@ -10,4 +10,14 @@ public class Beneficiary
         this.Name = Name;
         this.CountryISOCode = CountryISOCode;
     }
+    
+    public string GetName()
+    {
+        return this.Name;
+    }
+    
+    public string GetCountryISOCode()
+    {
+        return this.CountryISOCode;
+    }
 }
